@@ -1,0 +1,18 @@
+navigation{
+    background-color: blue;
+    overflow: hidden;
+}
+.navigation{
+    float: centre;
+    color: blue;
+    text-align:center;
+    font-size: 35px;
+}
+.navigation:hover{
+    color: grey;
+    background-color: #db2eca;
+}
+.navigation.a.seedhe{
+    background-color: #1010c7;
+    color: black;
+}
